@@ -5,7 +5,7 @@ Lama Quartet is a Patcher preset designed to replicate the dissonant, wide vibra
 Lama Quartet requires FL Studio 21 and the Delay Lama vocal synthesis plugin by AudioNerdz.
 ## Instructions
 To control the notes played by the four Lamas, reference the VFX Color Mapper instance on the map screen. The keyboard is divided (rather crudely) into four sections, each controlling a Lama within a similar octave to the others. Automate the controls on the control surface to control the Lamas' parameters in unison (or staggered unison in the case of the vibrato).
-##FAQ
+## FAQ
 *Why did you make this?*
 For my upcoming Ritual Horror-themed Music Pack (Coming soon to itch.io and others) I wanted to recreate the Shinto ritual bell sound from "Making of a Cyborg" (I have no idea what the bell is actually called, but I heard a very similar one during a blessing at a Shinto shrine). Making the bell sound was relatively straightforward; I took a concert sleigh bells sample from a free orchestra VST, added some reverb, and then rolled off the lows and mids until it sounded pretty close. Since I don't have the budget to use an actual choir, I wondered if I might be able to synthesize the choir or at least replicate their technique in some other context. 
 
